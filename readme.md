@@ -2,12 +2,11 @@
 ## _An Tool For Every CryptoTrader_
 
 CryptoBuddy Is an Arbitrage-Bot Which Helps To Buy CryptoCurrency At a Low Price From One Exchange and Sell Those at another Exchange at HighPrice And Earn Profit.
+
 ## Features
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
+- Link Accounts Manjor Exchanges (Wazirx & Binance)
+- Buy At Low Price & Sell At High Price in SpotMarket
+- WebIntergarion (ComingSoon)
 ## Tech
 
 - [Python] - Best For Automation!
